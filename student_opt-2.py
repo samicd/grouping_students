@@ -25,9 +25,6 @@ def import_students(fp):
 def evaluate_group(group, s_dict):
     """
     Calculates the average score of a group of students
-    :param group: l
-    :param s_dict:
-    :return:
     """
     _sum = 0
     for i in group:
